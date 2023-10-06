@@ -1,1 +1,3 @@
 # gravitational-wave-around-two-spinning-black-holes-in-orbital-motion
+
+This code provides an educational visualization of two spinning black holes and the associated gravitational waves they emit. However, it's important to recognize its inherent limitations when compared to the complexities of the real phenomena as described by General Theory of Relativity (GTR). While the code attempts to incorporate factors such as the speed of gravitational wave propagation and the orbital motion of black holes, it employs simplifications and approximations that do not fully capture the intricate dynamics governed by GTR. The code presents gravitational waves as visually intuitive cones and simplifies the four-dimensional spacetime of GTR into a 3D grid.
